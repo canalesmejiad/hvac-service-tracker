@@ -4,7 +4,7 @@ A service management application designed to help small HVAC teams organize cust
 
 ## Live Application
 
-https://hvac-service-tracker-david-canales.rosy-quail-4118.chatgpt.site
+https://hvac-service-tracker-david-canales.david-kanale.chatgpt.site
 
 ## Project Description
 
