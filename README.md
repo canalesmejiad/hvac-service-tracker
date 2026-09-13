@@ -2,6 +2,10 @@
 
 A service management application designed to help small HVAC teams organize customers, equipment, and service jobs.
 
+## Live Application
+
+https://hvac-service-tracker-david-canales.rosy-quail-4118.chatgpt.site
+
 ## Project Description
 
 HVAC Service Tracker will allow service teams to manage customer and equipment records, create and assign service jobs, update job progress, and mark jobs as completed. The application will also support job searching and filtering and integrate with a cloud-based weather service.
